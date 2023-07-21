@@ -1,0 +1,16 @@
+.title-background {
+  background-color: #a0bfe0;
+}
+.card-cover {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+.about {
+  height: 40vh;
+}
